@@ -36,12 +36,14 @@ Each category features hand-picked HTML5 games optimized for smooth performance 
 
 ## ?? Sample Games
 
+
+
 Here are a few notable games you can try:
 
 - [Stickman Archer](https://gamh5.com/category/bubble-shooter/)
 - [2048 Merge](https://gamh5.com/category/merge/)
 - [Endless Car Race](https://gamh5.com/category/racing/)
-
+- [Meowdoku](https://playmeowdoku.com) — Relaxing cat logic puzzle that blends Sudoku-style placement with Minesweeper-like deduction. Place one cat per colored region; no shared rows/columns; no diagonal touching. *(Puzzle)*
 > Browse more games at [GamH5](https://gamh5.com).
 
 ---
