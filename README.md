@@ -36,8 +36,6 @@ Each category features hand-picked HTML5 games optimized for smooth performance 
 
 ## ?? Sample Games
 
-
-
 Here are a few notable games you can try:
 
 - [Stickman Archer](https://gamh5.com/category/bubble-shooter/)
