@@ -41,6 +41,7 @@ Here are a few notable games you can try:
 - [Stickman Archer](https://gamh5.com/category/bubble-shooter/)
 - [2048 Merge](https://gamh5.com/category/merge/)
 - [Endless Car Race](https://gamh5.com/category/racing/)
+- [Deck Games](https://deckgames.io) — Free browser card and solitaire games including Klondike, FreeCell, Spider, and TriPeaks. No signup or download required.
 
 > Browse more games at [GamH5](https://gamh5.com).
 
